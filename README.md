@@ -78,7 +78,6 @@ Components:
 Detailed diagrams are available in:
 - `docs/architecture.md`
 - `docs/technical-design.md`
-- `docs/sequence-diagrams.md`
 
 ---
 
